@@ -34,11 +34,11 @@ Melalui analisis data molekuler, proyek ini membantu mengidentifikasi senyawa ak
 - Analisis statistik menunjukkan relevansi kuat fitur dengan aktivitas inhibitor IDO1.
 
 ### Kontributor:
-- Ivander Perdana Mokhtar¹  
-- Rika Ajeng Finatih²  
-- Sarah Natalia Geraldine³  
-- Anita Rahma Pramoda Cahyani⁴  
-- Putri Maulida Chairani⁵  
+- Ivander Perdana Mokhtar  
+- Rika Ajeng Finatih  
+- Sarah Natalia Geraldine  
+- Anita Rahma Pramoda Cahyani  
+- Putri Maulida Chairani  
 - Ima Alifah  
 ---
 
